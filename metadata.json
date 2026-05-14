@@ -1,0 +1,7 @@
+{
+  "name": "subfy",
+  "description": "Elite AI-powered social media subtitle engineer for generating phonetically accurate, semantically chunked captions for Reels, TikTok, and Shorts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
